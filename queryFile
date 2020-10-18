@@ -1,0 +1,14 @@
+/diseaseFrequency Black-Death 04-06-1800 06-06-2020
+/diseaseFrequency SARS 09-10-1700 11-10-2020 Germany
+/diseaseFrequency COVID-19 09-11-1500 11-11-2020 Italy
+/topk-AgeRanges 2 Finland HIV-AIDS 26-06-1700 28-06-2020
+/topk-AgeRanges 1 Greece COVID-19 22-11-1400 22-11-2012
+/searchPatientRecord 12
+/searchPatientRecord 90
+/searchPatientRecord reco1
+/numPatientAdmissions Spanish-Flu 13-04-1500 14-04-2006 Austria
+/numPatientAdmissions Swine-Flu 10-10-1700 10-10-2020
+/numPatientAdmissions INVALID-DISEASE 09-05-1500 09-05-2007
+/numPatientDischarges Ebola 10-10-1800 10-10-2009
+/numPatientDischarges Ebola 09-03-1700 09-03-1983 Greece
+/numPatientDischarges Ebola 09-03-1600 09/03/2020
